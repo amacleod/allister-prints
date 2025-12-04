@@ -54,4 +54,8 @@ Funnel_Set_by_Stenly_G: https://www.printables.com/model/1419917-funnel-set-mult
 Bridge_Calibration_by_Iker_Libano: https://www.printables.com/model/1475259-3d-printing-bridge-calibration-test-basic-advanced
 Bridge_Test_by_MakeWonderful: https://makerworld.com/en/models/1916063-unsupported-bridge-experiments
 Benchy_Dockyard_Med_by_lanwanman: https://www.printables.com/model/848540-benchy-dockyard-26-or-36-mini-display-rack-stand
+Magnet_Jig_by_kmeisthax: https://thangs.com/designer/kmeisthax/3d-model/Gridfinity%20Baseplate%20Magnet%20Jig-66031
+LabRax_5U_Bolted: https://makerworld.com/en/models/1464819-lab-rax-10-server-rack-bolted-version-5u
+Benchy_Holder_Multiboard_by_Cheesy1976: https://makerworld.com/en/models/838690-benchy-holder-multiboard
+Clamshell_Box_Holder_Multiboard_by_nick_Johnson: https://makerworld.com/en/models/812335-vertical-rack-for-clamshell-boxes
 ```
