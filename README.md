@@ -57,5 +57,11 @@ Benchy_Dockyard_Med_by_lanwanman: https://www.printables.com/model/848540-benchy
 Magnet_Jig_by_kmeisthax: https://thangs.com/designer/kmeisthax/3d-model/Gridfinity%20Baseplate%20Magnet%20Jig-66031
 LabRax_5U_Bolted: https://makerworld.com/en/models/1464819-lab-rax-10-server-rack-bolted-version-5u
 Benchy_Holder_Multiboard_by_Cheesy1976: https://makerworld.com/en/models/838690-benchy-holder-multiboard
-Clamshell_Box_Holder_Multiboard_by_nick_Johnson: https://makerworld.com/en/models/812335-vertical-rack-for-clamshell-boxes
+Clamshell_Box_Holder_Multiboard_by_Nick_Johnson: https://makerworld.com/en/models/812335-vertical-rack-for-clamshell-boxes
+Gridfinity_Baseplate_Magnet_Jig_by_schneems: https://www.printables.com/model/485526-gridfinity-magnetic-baseplate-jig-print-in-place
+Snap_Removal_Tool_by_SOME_Studio: https://www.printables.com/model/734627-multiboard-snap-removal-tool
+SD_Card_Holder_Remixed_by_Moraxno: https://www.printables.com/model/368869-remixed-usb-sd-card-gridfinity-holder
+Hex_Dice_Box_by_TLantz: https://www.printables.com/model/432790-hex-dice-box-print-in-place
+Nozzle_Holder_by_Caiman: https://www.printables.com/model/240309-gridfinity-nozzle-holder
+Gridfinity_Nozzle_Holder_by_AX3D: https://www.printables.com/model/491720-gridfinity-nozzle-holder
 ```
