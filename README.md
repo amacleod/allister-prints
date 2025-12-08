@@ -64,4 +64,7 @@ SD_Card_Holder_Remixed_by_Moraxno: https://www.printables.com/model/368869-remix
 Hex_Dice_Box_by_TLantz: https://www.printables.com/model/432790-hex-dice-box-print-in-place
 Nozzle_Holder_by_Caiman: https://www.printables.com/model/240309-gridfinity-nozzle-holder
 Gridfinity_Nozzle_Holder_by_AX3D: https://www.printables.com/model/491720-gridfinity-nozzle-holder
+Multiboard_Gridfinity_Shelves_by_David_D: https://www.printables.com/model/710796-multiboard-gridfinify-shelves
+Multiconnect_Multipoint_Adapter_by_David_D: https://www.printables.com/model/1024741-multipoint-to-multiconnect-adapter
+Raised_Multiconnect_by_David_D: https://www.printables.com/model/1074671-raised-multiconnect-generic-connector-for-multiboa
 ```
