@@ -67,4 +67,13 @@ Gridfinity_Nozzle_Holder_by_AX3D: https://www.printables.com/model/491720-gridfi
 Multiboard_Gridfinity_Shelves_by_David_D: https://www.printables.com/model/710796-multiboard-gridfinify-shelves
 Multiconnect_Multipoint_Adapter_by_David_D: https://www.printables.com/model/1024741-multipoint-to-multiconnect-adapter
 Raised_Multiconnect_by_David_D: https://www.printables.com/model/1074671-raised-multiconnect-generic-connector-for-multiboa
+Gridfinity_Plain_Bin_by_Kyle_Warren: https://www.printables.com/model/321606-gridfinity-plain-bin
+ECC_Hotend_Holder_by_The_Everyday_Makers: https://makerworld.com/en/models/1589006-gridfinity-elegoo-centauri-carbon-nozzle-holder
+Ultra_Light_Bins_by_HuMa: https://www.printables.com/model/627719-gridfinity-ultra-light-bins-plain-edition
+Rack_Shelf_Support_by_idcrook: https://www.printables.com/model/1345555-10-inch-rackmount-back-side-cantilevered-shelf-sup
+Screw_Labels_for_Gridfinity_Bins_by_pejvl2000: https://www.printables.com/model/639622-screws-labels-for-gridfinity-bin
+Magnet_Inserter_by_Brian_Dean: https://makerworld.com/en/models/60890-embedded-magnet-dispenser-tool-for-3d-prints
+Keychain_Capsules_by_Kickass3DPrints: https://www.printables.com/model/1471681-emergency-stash-keychain
+Pred_Bins_with_Improved_Magnet_Slots_by_shremi: https://www.printables.com/model/1206612-gridfinity-bin-with-printable-label-by-pred-with-m
+Pred_Magnet_Jig_by_GrumpyTanker: https://www.printables.com/model/637308-magnet-insertion-jig-for-preds-parametric-gridfini
 ```
