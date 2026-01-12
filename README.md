@@ -83,4 +83,11 @@ Tentacle_Controller_Holder_by_Mad_Power: https://www.printables.com/model/153559
 Dual_PS5_Controller_Stand_by_Grandpa_3DPrints: https://www.printables.com/model/1119904-dual-ps5-controller-stand-no-supports
 Stealth_PS5_Controller_Stand_by_Yellowtech: https://www.printables.com/model/843011-stealth-ps5-controller-stand
 DualSense5_Holder_by_OctaNik: https://www.printables.com/model/1104131-ps5-controller-stand
+LabRax_Blank_Plates_by_mklements: https://makerworld.com/en/models/1385541-1-2u-1u-and-2u-blank-cover-plates-for-10-rack
+Thin_Peg_Hook_by_phga: https://www.printables.com/model/840648-multiboard-pegboard-hook-thin
+Tactile_Spiral_Vase_by_DonaldSayers: https://www.printables.com/model/198024-tactile-spiral-vase-pen-cup
+Minimalistic_Xbox_Controller_Stand_by_agepbiz: https://www.printables.com/model/449970-minimalistic-xbox-controller-stand
+Business_Card_Holder_by_Chris_Aero: https://www.printables.com/model/557413-business-card-holder
+Screwdriver_Holder_by_Daboo: https://thangs.com/designer/Daboo/3d-model/Multiboard%20Small%20Screwdriver%20Holder-993380
+Skadis_Bins_by_Scottw86: https://www.printables.com/model/527223-skadis-storage-bins
 ```
