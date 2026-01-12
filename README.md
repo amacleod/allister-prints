@@ -76,4 +76,11 @@ Magnet_Inserter_by_Brian_Dean: https://makerworld.com/en/models/60890-embedded-m
 Keychain_Capsules_by_Kickass3DPrints: https://www.printables.com/model/1471681-emergency-stash-keychain
 Pred_Bins_with_Improved_Magnet_Slots_by_shremi: https://www.printables.com/model/1206612-gridfinity-bin-with-printable-label-by-pred-with-m
 Pred_Magnet_Jig_by_GrumpyTanker: https://www.printables.com/model/637308-magnet-insertion-jig-for-preds-parametric-gridfini
+Portable_Dice_Tower_by_Chirimorin: https://www.printables.com/model/855871-portable-dice-tower-and-storage-print-in-place
+Daggerheart_Card_Holder_by_btyler257: https://makerworld.com/en/models/1457430-daggerheart-sleeved-card-holder-base-set
+Underware_by_Hands_on_Katie: https://www.printables.com/model/941161-underware-the-ultimate-cable-management-solution
+Tentacle_Controller_Holder_by_Mad_Power: https://www.printables.com/model/1535592-octopus-stand-for-controller-ps5-ps4-switch-pro
+Dual_PS5_Controller_Stand_by_Grandpa_3DPrints: https://www.printables.com/model/1119904-dual-ps5-controller-stand-no-supports
+Stealth_PS5_Controller_Stand_by_Yellowtech: https://www.printables.com/model/843011-stealth-ps5-controller-stand
+DualSense5_Holder_by_OctaNik: https://www.printables.com/model/1104131-ps5-controller-stand
 ```
