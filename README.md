@@ -90,4 +90,6 @@ Minimalistic_Xbox_Controller_Stand_by_agepbiz: https://www.printables.com/model/
 Business_Card_Holder_by_Chris_Aero: https://www.printables.com/model/557413-business-card-holder
 Screwdriver_Holder_by_Daboo: https://thangs.com/designer/Daboo/3d-model/Multiboard%20Small%20Screwdriver%20Holder-993380
 Skadis_Bins_by_Scottw86: https://www.printables.com/model/527223-skadis-storage-bins
+Stealth_PS4_Controller_Stand_by_Hi_Im_Dave: https://www.printables.com/model/863199-stealth-ps4-controller-stand
+Now_Playing_Record_Holder_by_Netztourist: https://www.thingiverse.com/thing:5324322
 ```
