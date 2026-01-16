@@ -92,4 +92,6 @@ Screwdriver_Holder_by_Daboo: https://thangs.com/designer/Daboo/3d-model/Multiboa
 Skadis_Bins_by_Scottw86: https://www.printables.com/model/527223-skadis-storage-bins
 Stealth_PS4_Controller_Stand_by_Hi_Im_Dave: https://www.printables.com/model/863199-stealth-ps4-controller-stand
 Now_Playing_Record_Holder_by_Netztourist: https://www.thingiverse.com/thing:5324322
+PS4_Controller_Mount_by_PrintCompact: https://www.printables.com/model/108907-ps4-controller-mount
+Gridfinity_Drop_In_Rack_by_ClearThread: https://www.printables.com/model/1416871-gridfinity-drop-in-tool-holderrack-for-pliersside
 ```
