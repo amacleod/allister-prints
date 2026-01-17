@@ -94,4 +94,6 @@ Stealth_PS4_Controller_Stand_by_Hi_Im_Dave: https://www.printables.com/model/863
 Now_Playing_Record_Holder_by_Netztourist: https://www.thingiverse.com/thing:5324322
 PS4_Controller_Mount_by_PrintCompact: https://www.printables.com/model/108907-ps4-controller-mount
 Gridfinity_Drop_In_Rack_by_ClearThread: https://www.printables.com/model/1416871-gridfinity-drop-in-tool-holderrack-for-pliersside
+Gridfinity_3x3_Tray_by_Phillip_Snyder: https://www.printables.com/model/814408-3x3x3-gridfinity-tray-no-magnet-holes
+Tape_Side_Protection_by_eof: https://www.printables.com/model/1435426-side-protection-for-electrical-insulating-tape-sei
 ```
