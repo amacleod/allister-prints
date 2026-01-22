@@ -96,4 +96,12 @@ PS4_Controller_Mount_by_PrintCompact: https://www.printables.com/model/108907-ps
 Gridfinity_Drop_In_Rack_by_ClearThread: https://www.printables.com/model/1416871-gridfinity-drop-in-tool-holderrack-for-pliersside
 Gridfinity_3x3_Tray_by_Phillip_Snyder: https://www.printables.com/model/814408-3x3x3-gridfinity-tray-no-magnet-holes
 Tape_Side_Protection_by_eof: https://www.printables.com/model/1435426-side-protection-for-electrical-insulating-tape-sei
+Dual_Tweezer_Holder_by_RighteousNewb: https://www.printables.com/model/710085-dual-tweezer-holder-for-multiboard-mid-push-connec
+Small_Tool_Holder_by_Glenn_Brockett: https://www.printables.com/model/914942-multiboard-small-tool-holder
+Small_Plier_Holder_by_Ivando: https://thangs.com/designer/ivando/3d-model/Small%20pliers%2C%20cutter%20holder%20for%20Multiboard-1029850
+Segmented_Pencil_Holder_by_axg20202: https://thangs.com/designer/axg20202/3d-model/Segmented%20pencil%20and%20small%20parts%20holders%20-%20Multiboard-1030822
+Steam_Controller_Stand_by_THL: https://www.printables.com/model/434901-steam-controller-stand
+Spool_Holder_by_Mi_Sch: https://www.printables.com/model/131300-spool-holder
+Tiny_Ergonomic_Scraper_by_sh: https://www.printables.com/model/277302-thin-layers-scraper-tinyergonomic
+Can_Opener_by_fifindr: https://www.printables.com/model/1410105-beverage-can-opener-with-cover
 ```
