@@ -104,4 +104,10 @@ Steam_Controller_Stand_by_THL: https://www.printables.com/model/434901-steam-con
 Spool_Holder_by_Mi_Sch: https://www.printables.com/model/131300-spool-holder
 Tiny_Ergonomic_Scraper_by_sh: https://www.printables.com/model/277302-thin-layers-scraper-tinyergonomic
 Can_Opener_by_fifindr: https://www.printables.com/model/1410105-beverage-can-opener-with-cover
+Magnet_Revolver_by_Sector7: https://www.printables.com/model/903990-magnet-organizer-magnet-dispenser-magnet-revolver
+Drawer_Dividers_by_Ira_S: https://www.printables.com/model/383933-parts-organizer-dividers-for-akro-mills-stanley-cr
+Akro_Mills_Dividers_by_JDM_Designs: https://www.printables.com/model/957934-drawer-dividers-for-akro-mils-24-drawer-storage-ca
+Gridfinity_Poker_Chip_Holder_by_Ed_V: https://www.printables.com/model/730432-gridfinty-poker-chip-holder
+Poker_Chip_Caddy_by_YvesVO: https://www.printables.com/model/73736-boardgame-score-chip-holder-poker-chip-holder
+Hanging_File_Rail_Clip_by_stillborn86: https://www.printables.com/model/143439-hanging-filefolder-rail-clip
 ```
