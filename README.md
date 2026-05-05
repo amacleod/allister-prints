@@ -127,4 +127,5 @@ Rugged_Gridfinity_Parts_Tray_by_K2Kevin: https://makerworld.com/en/models/135649
 EVA_Figure_by_AGuyWithLaptop: https://www.printables.com/model/1004783-110-scale-action-figure-eva-01
 Multiconnect_by_DavidD: https://www.printables.com/model/716558-multiconnect-generic-connector-for-multiboard
 Wago_DIN_Rail_by_fns720: https://www.printables.com/model/441520-wago-221-41-din-rail-mounts
+Cute_Mini_Octopus_by_McGybeer: https://www.printables.com/model/178035-cute-mini-octopus
 ```
