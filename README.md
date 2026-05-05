@@ -110,4 +110,21 @@ Akro_Mills_Dividers_by_JDM_Designs: https://www.printables.com/model/957934-draw
 Gridfinity_Poker_Chip_Holder_by_Ed_V: https://www.printables.com/model/730432-gridfinty-poker-chip-holder
 Poker_Chip_Caddy_by_YvesVO: https://www.printables.com/model/73736-boardgame-score-chip-holder-poker-chip-holder
 Hanging_File_Rail_Clip_by_stillborn86: https://www.printables.com/model/143439-hanging-filefolder-rail-clip
+Super_Cool_Index_Card_Holder_by_Dont_Panic_Studios: https://www.printables.com/model/501524-supercool-gridfinity-index-card-tray
+Gridfinity_Index_Card_and_Pen_Holder_by_Timothy_Prestero: https://www.printables.com/model/237092-gridfinity-index-card-and-pen-holder
+Index_Card_Board_by_focusaurus: https://www.printables.com/model/110863-index-card-holder
+Daggerheart_Card_Organizer_by_odjntrade: https://www.printables.com/model/1328934-daggerheart-card-organizerholder
+Modular_Daggerheart_Stand_by_Grison: https://www.printables.com/model/1459409-daggerheart-modular-card-stand
+Dummy_13_v1_0_by_soozafone: https://www.printables.com/model/981111-dummy-13-version-10
+Lazy_Susan_160_by_logicalplanet: https://thangs.com/designer/logicalplanet/3d-model/Lazy%20Susan%20160%20v3.0-1514462
+ECC_Fan_Shroud_by_BMA: https://www.printables.com/model/1335650-really-works-centauri-carbon-silencer-quiet-dual-f
+Conquest_Trays_by_Thunderhead: https://www.thingiverse.com/thing:5029641
+Nextruder_Nozzle_Box_by_ygram: https://www.printables.com/model/673999-single-nextruder-nozzle-box
+Remixed_Nextruder_Nozzle_Box_by_CW: https://www.printables.com/model/1160993-single-nextruder-nozzle-box-v2-gridfinity-nozzle-b
+Dummy13_Hand_Pack_by_Radek: https://www.printables.com/model/1215186-dummy-13-hand-megapack-on-runners
+Gridfinity_Microscope_Slide_Bins_by_mnemnion: https://www.printables.com/model/1466650-gridfinity-drop-in-microscope-window-bin-2-x-1-wit
+Rugged_Gridfinity_Parts_Tray_by_K2Kevin: https://makerworld.com/en/models/1356496-rugged-ultimate-makertrays-gridfinity-tray
+EVA_Figure_by_AGuyWithLaptop: https://www.printables.com/model/1004783-110-scale-action-figure-eva-01
+Multiconnect_by_DavidD: https://www.printables.com/model/716558-multiconnect-generic-connector-for-multiboard
+Wago_DIN_Rail_by_fns720: https://www.printables.com/model/441520-wago-221-41-din-rail-mounts
 ```
