@@ -121,6 +121,7 @@ ECC_Fan_Shroud_by_BMA: https://www.printables.com/model/1335650-really-works-cen
 Conquest_Trays_by_Thunderhead: https://www.thingiverse.com/thing:5029641
 Nextruder_Nozzle_Box_by_ygram: https://www.printables.com/model/673999-single-nextruder-nozzle-box
 Remixed_Nextruder_Nozzle_Box_by_CW: https://www.printables.com/model/1160993-single-nextruder-nozzle-box-v2-gridfinity-nozzle-b
+Nozzle_Holder_XL_by_Yannick_Swinnen: https://www.printables.com/model/1248483-nozzle-holder-prusa-xl
 Dummy13_Hand_Pack_by_Radek: https://www.printables.com/model/1215186-dummy-13-hand-megapack-on-runners
 Gridfinity_Microscope_Slide_Bins_by_mnemnion: https://www.printables.com/model/1466650-gridfinity-drop-in-microscope-window-bin-2-x-1-wit
 Rugged_Gridfinity_Parts_Tray_by_K2Kevin: https://makerworld.com/en/models/1356496-rugged-ultimate-makertrays-gridfinity-tray
@@ -128,4 +129,9 @@ EVA_Figure_by_AGuyWithLaptop: https://www.printables.com/model/1004783-110-scale
 Multiconnect_by_DavidD: https://www.printables.com/model/716558-multiconnect-generic-connector-for-multiboard
 Wago_DIN_Rail_by_fns720: https://www.printables.com/model/441520-wago-221-41-din-rail-mounts
 Cute_Mini_Octopus_by_McGybeer: https://www.printables.com/model/178035-cute-mini-octopus
+Katana_for_Dummy13_by_DrunkenGlitchy: https://www.printables.com/model/251449-modified-katana-for-the-lucky-13
+OpenGrid_Command_Strip_Mounts_by_Marcus: https://www.printables.com/model/1290873-opengrid-removable-command-strip-mounts
+Infinite_Notebook_by_Gazzaladra: https://thangs.com/designer/Gazzaladra/3d-model/Infinite%20Notebook-1553629
+OpenGrid_Front_Connector_by_Thegeniusmoose: https://www.printables.com/model/1430758-opengrid-lite-double-front-connector
+Articulated_Hand_by_Michael_Wycoff: https://www.printables.com/model/677986-poseable-articulated-hand-model
 ```
